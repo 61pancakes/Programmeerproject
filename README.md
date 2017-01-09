@@ -25,3 +25,4 @@ It would be cool to also look at when someone was playing, or how long, and how 
   * Something to show progress over time
   * Add details like possible comparison with other users, search history, current rankings
 3. Create user interface
+4. Improve overall design
