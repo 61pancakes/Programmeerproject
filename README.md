@@ -1,13 +1,11 @@
 # ProgrammeerProject 
 
 #### Videogaming as professional career 
-Hoi
+[A lot of people play video games in the 21st century.](http://www.theesa.com/wp-content/uploads/2015/04/ESA-Essential-Facts-2015.pdf)   
+#### Similar Projects
 
-##### Similar Projects
+#### Sketches & Usage
 
-##### Sketches & Usage
-Hoi
+#### Obstacles
 
-##### Obstacles
-
-##### Steps to be taken
+#### Steps to be taken
