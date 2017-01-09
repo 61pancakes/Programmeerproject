@@ -1,13 +1,13 @@
 # ProgrammeerProject 
 
-###### Videogaming as professional career 
+#### Videogaming as professional career 
 Hoi
 
-###### Similar Projects ######
+##### Similar Projects
 
-###### Sketches & Usage ######
+##### Sketches & Usage
 Hoi
 
-###### Obstacles ######
+##### Obstacles
 
-###### Steps to be taken ######
+##### Steps to be taken
