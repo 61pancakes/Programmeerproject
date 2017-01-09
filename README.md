@@ -11,8 +11,7 @@ Blizzard recently (only a few weeks old) published [Overbuff](https://www.overbu
 #### Sketches & Usage
 
 The main visualisation will be a bilevel partition for the overview of classes, with interactivity for details per class. The idea is as follows: 
-![Overview](/Images/1.png)
-![Zoomed in](Images/2.png)
+![Bilevel partition](/Images/4.png)
 
 Then the overview of the website looks like this:
 ![like this](/Images/3.png)
