@@ -10,6 +10,15 @@ Blizzard recently (only a few weeks old) published [Overbuff](https://www.overbu
 
 #### Sketches & Usage
 
+The main visualisation will be a bilevel partition for the overview of classes, with interactivity for details per class. The idea is as follows: 
+![Overview](/Images/1.png)
+![Zoomed in](Images/2.png)
+
+Then the overview of the website looks like this:
+![like this](/Images/3.png)
+
+Most of it will be interactive with each other, but I don't know how distracting that will be and if all the data visualised will be interesting to see. So I'll have to look into that the following days.
+
 #### Obstacles
 
 There is no official API out for Overwatch. There is however an [unofficial one](https://api.lootbox.eu/documentation). It will be a challenge to find out how to get it working and then use it's data. It will also be a challenge to decide how to visualise the selected data exactly. A lot of statistics can 
