@@ -1,7 +1,7 @@
 ## Analysing statistics in videogames
 > The goal of this project is to create a clear, but still useful website for players of Overwatch, who are interested in improving their gameplay.
  
-Andrea van den Hooff
+Andrea van den Hooff <br>
 January 2017
 
 #### Game Analytics in E-sports
